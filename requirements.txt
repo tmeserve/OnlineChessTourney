@@ -1,4 +1,4 @@
-svglib==0.9.2
+svglib==0.9.4
 pygame==1.9.6
 python-chess==0.28.1
 cairosvg==2.4.0
